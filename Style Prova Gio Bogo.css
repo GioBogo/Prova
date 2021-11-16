@@ -1,0 +1,11 @@
+.pagina {
+    width: 600px;
+    height: 800px;
+    
+}
+
+body {
+    font-family: 'Barlow Condensed', sans-serif;
+  /*font-family: 'Barlow Condensed', sans-serif !important;
+font-family: 'Lato', sans-serif !important;*/
+}
